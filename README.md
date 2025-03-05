@@ -1,4 +1,4 @@
-<!-- 🎨 بنر اختصاصی -->
+<!-- 🎨 بنر اختصاصی با انیمیشن پیشرفته -->
 <p align="center">
     <img src="https://your-banner-image-url.com/banner.gif" alt="Sajjad Akbari Banner" width="100%" />
 </p>
@@ -38,45 +38,13 @@
 
 ## 🚀 **مهارت‌ها و تکنولوژی‌ها**  
 
-| زبان‌ها و فریم‌ورک‌ها | دیتابیس‌ها | ابزارهای دیگر |
-|----------------------|------------|---------------|
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |  | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
----
-
-## 📌 **پروژه‌های برتر من**  
-
-✅ **[Seokar Translator](https://github.com/yourusername/seokar-translator)** – افزونه ترجمه حرفه‌ای وردپرس  
-✅ **[Seokar Security](https://github.com/yourusername/seokar-security)** – افزونه امنیتی قدرتمند برای وردپرس  
-✅ **[Seokar Optimizer](https://github.com/yourusername/seokar-optimizer)** – بهینه‌ساز سرعت و عملکرد سایت  
-
-📂 **تمام پروژه‌های من را در اینجا ببینید:** [GitHub Repositories](https://github.com/yourusername?tab=repositories)    
-
----
-
-## 🚀 **مهارت‌های من**  
-
-### 🖥 **فرانت‌اند**  
-🎨 **HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js, Bootstrap, TailwindCSS**  
-
-### 🔧 **بک‌اند**  
-⚙️ **PHP (OOP & MVC), WordPress (Plugin & Theme Dev), Laravel, REST API, MySQL, SQLite**  
-
-### 🛠 **ابزارها و فریم‌ورک‌ها**  
-📦 **Git, Docker, Composer, Webpack, Vite, Postman, cPanel, WHM**  
-
-### 🛡 **امنیت و بهینه‌سازی**  
-🔒 **WordPress Security, SQL Injection Protection, XSS & CSRF Mitigation, Performance Optimization (Caching & Minification)**  
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,php,wordpress,laravel,mysql,docker,git,webpack" />
 </p>
 
 ---
 
-## 📂 **پروژه‌های ویژه**  
+## 📌 **پروژه‌های ویژه**  
 
 | 📌 **نام پروژه** | 📜 **توضیحات** | 🔗 **لینک** |
 |----------------|--------------|-------------|
@@ -141,3 +109,103 @@
 </p>
 
 ---
+## 🚀 **دموی زنده پروژه‌ها**
+
+| 📌 **نام پروژه** | 🔗 **لینک دمو** |
+|----------------|----------------|
+| **Seokar Translator** | [مشاهده دمو](https://seokar-translator-demo.netlify.app) |
+| **Seokar Security** | [مشاهده دمو](https://seokar-security-demo.vercel.app) |
+| **Seokar Optimizer** | [مشاهده دمو](https://seokar-optimizer-demo.github.io) |
+
+## 💬 **نظرات کاربران**
+
+| 👤 **کاربر** | 📝 **نظر** | ⭐ **امتیاز** |
+|--------------|------------|--------------|
+| کاربر ۱ | "این افزونه واقعاً عالی است! سرعت سایت من را به شدت بهبود بخشید." | ⭐⭐⭐⭐⭐ |
+| کاربر ۲ | "امنیت سایت من با این افزونه بسیار افزایش یافت. ممنون!" | ⭐⭐⭐⭐ |
+| کاربر ۳ | "ترجمه‌ی حرفه‌ای و دقیق. پیشنهاد می‌کنم!" | ⭐⭐⭐⭐⭐ |
+
+## 🤝 **همکاری‌ها**
+
+<p align="center">
+    <img src="https://via.placeholder.com/150?text=Company+1" alt="Company 1" width="100" />
+    <img src="https://via.placeholder.com/150?text=Company+2" alt="Company 2" width="100" />
+    <img src="https://via.placeholder.com/150?text=Company+3" alt="Company 3" width="100" />
+</p>
+
+
+## 📚 **مقالات و آموزش‌ها**
+
+| 📌 **عنوان** | 🔗 **لینک** |
+|--------------|-------------|
+| "بهینه‌سازی وردپرس: 10 نکته طلایی" | [مشاهده مقاله](https://sajjadakbari.ir/optimize-wordpress) |
+| "امنیت وردپرس: چگونه سایت خود را ایمن کنیم؟" | [مشاهده مقاله](https://sajjadakbari.ir/wordpress-security) |
+| "آموزش ساخت افزونه وردپرس از صفر" | [مشاهده ویدیو](https://youtube.com/yourvideo) |
+
+## 🏅 **جوایز و گواهینامه‌ها**
+
+| 📌 **عنوان** | 🏆 **توضیحات** |
+|--------------|----------------|
+| "برترین توسعه‌دهنده وردپرس ۲۰۲۳" | جایزه‌ی بهترین افزونه امنیتی |
+| "گواهینامه امنیت سایبری" | گواهینامه‌ی معتبر از سازمان X |
+| "جایزه‌ی بهینه‌سازی عملکرد" | برای بهبود سرعت سایت‌های بزرگ |
+
+## 📅 **فعالیت‌های اخیر**
+
+<!-- فعالیت‌های اخیر در گیت‌هاب -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=seokar-translator&theme=radical" alt="Seokar Translator" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=seokar-security&theme=radical" alt="Seokar Security" />
+</p>
+
+## ☕ **حمایت مالی**
+
+اگر از کارهای من خوشتان آمده و می‌خواهید از من حمایت کنید، می‌توانید از طریق لینک‌های زیر اقدام کنید:
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/yourprofile">
+        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    </a>
+    <a href="https://patreon.com/yourprofile">
+        <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+    </a>
+</p>
+## 📩 **تماس با من**
+
+اگر می‌خواهید با من در ارتباط باشید، می‌توانید از طریق فرم زیر پیام خود را ارسال کنید:
+
+[فرم تماس با من](https://forms.gle/yourformlink)
+## 🚧 **آینده‌ی پروژه‌ها**
+
+| 📌 **پروژه** | 🎯 **اهداف آینده** |
+|--------------|--------------------|
+| **Seokar Translator** | افزودن پشتیبانی از زبان‌های بیشتر |
+| **Seokar Security** | بهبود سیستم تشخیص نفوذ |
+| **Seokar Optimizer** | افزودن قابلیت کش پیشرفته |
+
+## 👥 **تیم ما**
+
+| 👤 **عضو** | 🛠 **تخصص** |
+|------------|-------------|
+| سجاد اکبری | توسعه‌دهنده وردپرس |
+| علی رضایی | طراح UI/UX |
+| مریم حسینی | متخصص امنیت |
+
+## ❓ **سوالات متداول**
+
+**سوال:** چگونه می‌توانم از افزونه‌های شما استفاده کنم؟  
+**پاسخ:** کافی است افزونه را از گیت‌هاب دانلود کرده و در وردپرس نصب کنید.
+
+**سوال:** آیا افزونه‌های شما رایگان هستند؟  
+**پاسخ:** بله، تمام افزونه‌های ما به صورت رایگان در دسترس هستند.
+
+
+
+
+## 🤝 **همکاری با من**
+
+اگر علاقه‌مند به همکاری در پروژه‌های من هستید، می‌توانید از طریق ایمیل یا شبکه‌های اجتماعی با من در ارتباط باشید.
+
+📧 **ایمیل:** [sajjadakbari@dr.com](mailto:sajjadakbari@dr.com)  
+🌐 **وب‌سایت:** [sajjadakbari.ir](https://sajjadakbari.ir)
+
