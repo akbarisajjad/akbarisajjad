@@ -28,7 +28,7 @@
 
 ## 📂 **پروژه‌های برتر**  
 
-🔹 **[Seokar Translator](https://github.com/yourusername/seokar-translator)** – افزونه‌ی ترجمه‌ی حرفه‌ای وردپرس  
+🔹 **[Best Bot telegram](https://github.com/akbarisajjad/all-bots-telegram.git)** – ابهترین ربات های تلگرام  
 🔹 **[Seokar Security](https://github.com/yourusername/seokar-security)** – افزونه‌ی امنیتی قدرتمند وردپرس  
 🔹 **[Seokar Optimizer](https://github.com/yourusername/seokar-optimizer)** – بهینه‌ساز سرعت سایت  
 
